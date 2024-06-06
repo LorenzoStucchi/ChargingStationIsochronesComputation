@@ -2,7 +2,7 @@
 .DS_Store
 API.txt
 *.osm.pbf
-3_*.html
+results
 /openrouteservice-7.1.0/docker
 /openrouteservice-7.1.0/.github
 
