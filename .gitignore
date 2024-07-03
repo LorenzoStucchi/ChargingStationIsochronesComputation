@@ -3,8 +3,8 @@
 API.txt
 *.osm.pbf
 results
-/openrouteservice-7.1.0/docker
-/openrouteservice-7.1.0/.github
+/openrouteservice-7.1.0
+v7.1.0.zip
 /demo/*
 
 # Byte-compiled / optimized / DLL files
