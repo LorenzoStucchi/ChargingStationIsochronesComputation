@@ -5,6 +5,7 @@ API.txt
 results
 /openrouteservice-7.1.0/docker
 /openrouteservice-7.1.0/.github
+/demo/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
