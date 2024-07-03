@@ -6,6 +6,7 @@
 conda env create -f environment.yml 
 conda activate ORS_stations
 pip install -r requirements.txt
+wget https://gist.githubusercontent.com/perrygeo/5667173/raw/763e1e50208e8c853f46e57cd07bb07b424fed10/zonal_stats.py
 ```
 
 # Local usage 
